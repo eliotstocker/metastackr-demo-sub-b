@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello from Service B - v17-single-comment-and-status-test")
+	fmt.Println("Hello from Service B - v18-pr-body-merge-test")
 }
