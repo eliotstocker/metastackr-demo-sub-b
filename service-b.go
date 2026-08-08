@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello from Service B - v15-cascade-merge-success")
+	fmt.Println("Hello from Service B - v16-single-comment-test")
 }
