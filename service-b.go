@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello from Service B - v22-metastackr-bot-sticky-comment-test")
+	fmt.Println("Hello from Service B - v23-bot-author-verification")
 }
