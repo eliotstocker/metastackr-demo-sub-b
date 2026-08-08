@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello from Service B - v10-fresh-test")
+	fmt.Println("Hello from Service B - v11-live-verification")
 }
